@@ -85,7 +85,8 @@
 #include "FVParser.h"
 #include "Dataset.h"
 #include "Logger.h"
-#include <string>
+#include <cstring>
+#include <climits>
 
 string toString(int i);
 string toString(double d);

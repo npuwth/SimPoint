@@ -78,7 +78,7 @@
 
 #include "FVParser.h"
 #include "Utilities.h"
-#include <string>
+#include <cstring>
 
 // take care of a difference between G++ 2.96 and 3.x
 #if (__GNUC__ >= 3)

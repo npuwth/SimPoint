@@ -84,7 +84,7 @@
 #include <iostream>
 #include <vector>
 #include <map>
-#include <string>
+#include <cstring>
 #include "Utilities.h"
 
 using namespace std;
